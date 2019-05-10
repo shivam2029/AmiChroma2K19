@@ -1,0 +1,43 @@
+#register-fixed-btton a{
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 99;
+  border-radius: 20%;
+  padding: 15px;
+  width: 150px;
+  height: 50px;
+  line-height: 15px;
+  float: right;
+ align-content: center;
+ 
+
+
+}
+#register-fixed-btton1 
+a{
+  position: fixed;
+  bottom: 80px;
+  right: 20px;
+  z-index: 99;
+  border-radius: 20%;
+  padding: 15px;
+   width: 150px;
+ line-height: 15px;
+   height: 50px;
+   float:right;
+  align-content: center;
+}
+#register-fixed-btton2 a{
+  position: fixed;
+  bottom: 140px;
+  right: 20px;
+  z-index: 99;
+  border-radius: 20%;
+  padding: 15px;
+   width: 150px;
+   height: 50px;
+   line-height: 15px;
+   float: right;
+   align-content: center;
+}
